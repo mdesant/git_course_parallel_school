@@ -4,4 +4,4 @@ import math
 
 def operation(a):
     pass
-    #return math.sqrt(a)
+    return math.sqrt(a)
