@@ -4,4 +4,4 @@ import math
 
 def operation(a,b):
     pass
-    #return math.log(a,b)
+    return math.log(a,b)
