@@ -2,4 +2,4 @@
 
 def operation(a,b):
     pass
-    #return pow(a,b)
+    return pow(a,b)
